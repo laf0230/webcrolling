@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webcrolling/static/css/main.12f47f7b.css",
+    "main.js": "/webcrolling/static/js/main.b70666b7.js",
+    "index.html": "/webcrolling/index.html",
+    "main.12f47f7b.css.map": "/webcrolling/static/css/main.12f47f7b.css.map",
+    "main.b70666b7.js.map": "/webcrolling/static/js/main.b70666b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f47f7b.css",
+    "static/js/main.b70666b7.js"
+  ]
+}
